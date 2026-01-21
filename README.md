@@ -17,9 +17,9 @@ This project demonstrates modern web development practices with React + Vite on 
 ## 🛠 Tech Stack
 - **Frontend:** React + Vite
 - **Backend:** Node.js / Express (or your backend choice)
-- **Database:** MongoDB / MySQL
+- **Database:** MongoDB
 - **Styling:** TailwindCSS / Bootstrap
-- **Linting:** ESLint with recommended rules
+  
 
 ---
 
